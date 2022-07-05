@@ -8,11 +8,35 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.gupta.mohak</groupId>
+	<groupId>com.github.mohakgupta53</groupId>
 	<artifactId>number-addition</artifactId>
 	<version>1.0</version>
 	<name>number-addition</name>
+	<url>https://github.com/mohakgupta53/number-addition.git</url>
 	<description>Demo project for Spring Boot</description>
+	
+	<licenses>
+		  <license>
+		    <name>MIT License</name>
+		    <url>http://www.opensource.org/licenses/mit-license.php</url>
+		  </license>
+	</licenses>
+	
+	<scm>
+	  <connection>scm:git:git://github.com/mohakgupta53/number-addition.git</connection>
+	  <developerConnection>scm:git:ssh://github.com:mohakgupta53/number-addition.git</developerConnection>
+	  <url>http://github.com/mohakgupta53/number-addition</url>
+	</scm>
+	
+	 <developers>
+	    <developer>
+	      <name>Mohak Gupta</name>
+	      <email>mohakgupta53@gmail.com</email>
+	      <organization>Gupta Tech</organization>
+	      <organizationUrl>https://github.com/mohakgupta53</organizationUrl>
+	    </developer>
+    </developers>
+	
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
